@@ -112,3 +112,16 @@ Bu reja orqali 6 oy davomida backend developer bo‘lish uchun kerakli barcha bi
 ---
 
 > Ushbu reja amaliyotga moslashtirilgan. Har bir oyning oxirida real kod yoziladi. Rejani o‘z tempringizga qarab moslashtiring va har hafta vaqt ajratib, o‘rganganlaringizni mustahkamlang.
+
+
+<br><br><br><br>
+
+---
+- Iyun
+- Iyul
+- Avgust
+- Sentyabr
+- Oktyabe
+- Noyabr
+- Dekabr
+---
